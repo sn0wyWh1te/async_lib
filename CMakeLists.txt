@@ -22,5 +22,7 @@ target_include_directories(test.stdexec PRIVATE include include/__detail )
 
 set(CMAKE_BUILD_TYPE Debug)
 
+SET(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 set(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} -std=c++20")
 

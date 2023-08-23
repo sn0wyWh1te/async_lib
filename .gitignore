@@ -1,5 +1,4 @@
 build/CMakeFiles/test.stdexec.dir/depend.make
-.vscode/settings.json
 build/cmake_install.cmake
 build/CMakeCache.txt
 build/Makefile
@@ -31,3 +30,19 @@ build/CMakeFiles/test.stdexec.dir/link.txt
 build/CMakeFiles/test.stdexec.dir/progress.make
 build/CMakeFiles/test.stdexec.dir/src/main.o
 build/CMakeFiles/test.stdexec.dir/src/main.o.d
+.cache/clangd/index/__concepts.hpp.7CDC9951654165BD.idx
+.cache/clangd/index/__config.hpp.9E4AB1E135C01369.idx
+.cache/clangd/index/__execution_fwd.hpp.7663E13B1BBA93F8.idx
+.cache/clangd/index/__intrusive_ptr.hpp.D63CC5460A991081.idx
+.cache/clangd/index/__meta.hpp.DCDB784EC17601F8.idx
+.cache/clangd/index/__p2300.hpp.E1E47B85D148890F.idx
+.cache/clangd/index/__scope.hpp.7014F4C462B6536C.idx
+.cache/clangd/index/__type_traits.hpp.4F7606838CCCE5CA.idx
+.cache/clangd/index/concepts.hpp.B807AE39AF91F87F.idx
+.cache/clangd/index/coroutine.hpp.418E49626121061A.idx
+.cache/clangd/index/execution.hpp.0C83CB270AAE0560.idx
+.cache/clangd/index/functional.hpp.75AA2B60939B2169.idx
+.cache/clangd/index/main.cpp.A9F7FBD6C680542D.idx
+.cache/clangd/index/stop_token.hpp.3AA1F39505F4A151.idx
+.cache/clangd/index/type_func.hpp.EFBBEF4EB585F0D8.idx
+build/compile_commands.json
